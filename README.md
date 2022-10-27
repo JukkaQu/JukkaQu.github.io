@@ -1,2 +1,2 @@
-<h1>Harjoitus sivu</h1>
+<h1>Harjoitus <strong>sivu</strong></h1>
 
