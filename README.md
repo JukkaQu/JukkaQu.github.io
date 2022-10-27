@@ -1,2 +1,1 @@
-# JukkaQu.github.io
 Harjoitussivu
